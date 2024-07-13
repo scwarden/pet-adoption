@@ -5,6 +5,10 @@ html {
   background-color: white;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .actual-top-content {
   z-index: 5;
   position: relative;
